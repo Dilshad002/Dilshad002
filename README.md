@@ -1,17 +1,38 @@
-# 💫 About Me:
-Hi, I’m Dilshad — a B.E. Artificial Intelligence & Machine Learning student based in Bangalore.<br><br>I spend most of my time building with AI, learning by doing, and slowly diving into the world of robotics. I enjoy turning abstract ideas into working code and figuring things out one project at a time.<br><br>You’ll find some of my projects and experiments here on GitHub. I also document my learning journey and share reflections on:<br><br>Medium – longer thoughts, lessons, and projects<br><br>Twitter – quick updates, ideas, and the occasional rant<br><br>Always up for learning something new and building something better.
+# Hi, I'm Dilshad 👋
 
-
-## 🌐 Socials:
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dilshadd001) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dilshaddilshu8?t=8zQi8oAtbY65oY9i4rH2pw&s=09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dilshadd2034@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=flat&logo=jinja&logoColor=black) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=Twilio&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dilshad002&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dilshad002&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+AI/ML Engineer focused on building reasoning systems and autonomous agents.  
+Based in Bangalore · Open to AI/ML engineering roles
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Dilshad002&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Featured Projects
+
+### [IntelliFlow](https://github.com/dilshad002/intelliflow)
+Autonomous coding agent with a ReAct reasoning loop built on LangGraph. Deployed on Render.
+
+- **99% task success rate · 1.03 avg attempts · 4.17s avg solve time**
+- Stack: LangGraph · Groq API · FastAPI · Streamlit · Docker
+
+### [ScholarMind](https://huggingface.co/spaces/dilshad002/scholarmind)
+RAG-based research assistant for retrieving and synthesizing academic content. Deployed on HuggingFace Spaces.
+
+- Stack: LangChain · ChromaDB · Sentence Transformers · Meta-LLaMA · FastAPI
+
+---
+
+## Stack
+
+**Core** — Python, SQL  
+**AI/ML** — LangChain, LangGraph, HuggingFace, Ollama, Groq  
+**Infra** — FastAPI, Docker, Streamlit, Render, HuggingFace Spaces  
+**ML** — Scikit-learn, PyTorch, Pandas, NumPy
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/dilshad002)
+[![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=medium)](https://medium.com/@dilshadd001)
+[![X](https://img.shields.io/badge/X-black?style=flat&logo=x)](https://x.com/dilshaddilshu8)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=flat&logo=huggingface)](https://huggingface.co/dilshad002)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dilshadd2034@gmail.com)
