@@ -1,11 +1,19 @@
 # Hi, I'm Dilshad 👋
 
 AI/ML Engineer focused on building reasoning systems and autonomous agents.  
-Based in Bangalore · Open to AI/ML engineering roles
+Based in Bangalore
 
 ---
 
 ## Featured Projects
+
+### [CaseGraph](https://github.com/Dilshad002/CaseGraph) · [Live demo](https://case-graph.vercel.app)
+Criminal investigation support system that turns case documents into a searchable, source-traceable knowledge graph and flags contradictions across them.
+
+- Pipeline: OCR/PDF ingestion → NER (regex, spaCy) → LLM relationship extraction (Llama-3.3-70B via Groq) → temporal knowledge graph in Neo4j with cross-document entity resolution
+- Natural-language-to-Cypher querying and source-traceable contradiction detection
+- **100% precision/recall on 11 identifier types** (50-document development set) · **contradiction precision 50% → 80% at 100% recall**
+- Stack: Neo4j · spaCy · Groq · FastAPI · React
 
 ### [IntelliFlow](https://github.com/dilshad002/intelliflow)
 Autonomous coding agent with a ReAct reasoning loop built on LangGraph. Deployed on Render.
@@ -24,7 +32,8 @@ RAG-based research assistant for retrieving and synthesizing academic content. D
 
 **Core** — Python, SQL  
 **AI/ML** — LangChain, LangGraph, HuggingFace, Ollama, Groq  
-**Infra** — FastAPI, Docker, Streamlit, Render, HuggingFace Spaces  
+**Data** — Neo4j, ChromaDB, spaCy  
+**Infra** — FastAPI, React, Docker, Streamlit, Render, Vercel, HuggingFace Spaces  
 **ML** — Scikit-learn, PyTorch, Pandas, NumPy
 
 ---
